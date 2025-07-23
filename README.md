@@ -17,7 +17,7 @@ This dashboard was created as part of my Excel learning journey and emphasizes *
 
 ## 🎥 Live Dashboard Demo
 
-📽️ [Click to Watch the Demo (.mp4)](DashBoard_Implementation.mp4)
+![DataBucks Dashboard Demo](DashBoard_Implementation.gif)
 
 > *This short walkthrough shows how users interact with the dashboard, filter data, and extract salary insights based on job title, country, and work type.*
 
